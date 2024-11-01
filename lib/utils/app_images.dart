@@ -6,6 +6,8 @@ class AssetsImages {
 
   static const String imagesAvatar2svg = "assets/images/avatar2svg.svg";
 
+  static const String imagesAvatar3svg = "assets/images/avatar3svg.svg";
+
   static const String imagesCardBackground = "assets/images/card_background.svg";
 
   static const String imagesCustomerNamesvg = "assets/images/customerNamesvg.svg";
