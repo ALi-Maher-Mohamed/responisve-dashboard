@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:responsive_dash_board/views/dashboard_view.dart';
 
 void main() {
-  runApp(ResponsiveDashboard());
+  runApp(const ResponsiveDashboard());
 }
 
 class ResponsiveDashboard extends StatelessWidget {
