@@ -40,6 +40,7 @@ class MyCard extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.only(right: 24),
               child: Column(
+                crossAxisAlignment: CrossAxisAlignment.end,
                 children: [
                   Text(
                     '0918 8124 0042 8129',
@@ -55,7 +56,7 @@ class MyCard extends StatelessWidget {
               ),
             ),
             const SizedBox(
-              height: 26,
+              height: 20,
             )
           ],
         ),
