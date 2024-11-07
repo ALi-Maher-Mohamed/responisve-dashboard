@@ -20,7 +20,7 @@ class _DashboardViewState extends State<DashboardView> {
       key: scaffoldKey,
       appBar: MediaQuery.sizeOf(context).width < 800
           ? AppBar(
-              backgroundColor: Color(0xffFAFAFA),
+              backgroundColor: const Color(0xffFAFAFA),
               leading: IconButton(
                 icon: const Icon(Icons.menu),
                 onPressed: () {

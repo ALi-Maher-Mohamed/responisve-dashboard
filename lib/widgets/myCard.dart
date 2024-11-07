@@ -28,7 +28,7 @@ class MyCard extends StatelessWidget {
                 contentPadding: const EdgeInsets.only(right: 30, left: 30),
                 title: Text(
                   'Name Card',
-                  style: AppStyles.styleRegular16(context)
+                  style: AppStyles.styleMedium16(context)
                       .copyWith(color: Colors.white),
                 ),
                 subtitle: Text(

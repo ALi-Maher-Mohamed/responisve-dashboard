@@ -11,7 +11,7 @@ class ItemDetails extends StatelessWidget {
     return ListTile(
       leading: Container(
         width: 12,
-        height: 12,
+        height: 8,
         decoration: ShapeDecoration(
           shape: const OvalBorder(),
           color: item.color,
